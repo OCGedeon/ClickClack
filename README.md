@@ -1,68 +1,85 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Click Clack
+# Click Clack Game (Tech Edition)
 
-## Available Scripts
 
-In the project directory, you can run:
+<div>
 
-### `npm start`
+```html
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+    Welcome to my Click Game; with this assignment we were asked to create a guessing game that will have you selecting images/icons off of a grid. Your goal is to only select each image one time and not to repeat your selection. But be careful as the tech icons with redomize with each click. 
+    
+    Best of luck!
+    
+    Please enjoy!
+    
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
 
-### `npm test`
+```
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+`Overview`
 
-### `npm run build`
+```css
+PLEASE NOTE: There are required installations or update required to view and play this file/game.
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Getting Started
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+    - Create a new React application using Create React App.
+    - Install - NPM Package - https://www.npmjs.com/package/is-letter
+    - Install Yarn (yarn install)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```
 
-### `npm run eject`
+### Task Requirements:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+```css
+Instructions
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Check out the example solution and study the app's basic functionality.
+Create a new React application using Create React App.
+The application should render different images (of your choice) to the screen. Each image should listen for click events.
+The application should keep track of the user's score. The user's score should be incremented when clicking an image for the first time. The user's score should be reset to 0 if they click the same image more than once.
+Every time an image is clicked, the images rendered to the page should shuffle themselves in a random order.
+Once the user's score is reset after an incorrect guess, the game should restart.
+When complete, the application should be deployed to Github Pages. See the README generated with Create React App for instructions on deploying the application to Github Pages.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+--------------------END----------------------------
 
-### Code Splitting
+```
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+### Languages Used:
 
-### Analyzing the Bundle Size
+```css
+    - Visual Studio Code - Text Editor
+    - Terminal - Git Bash
+    - Font Awesome
+    - Html
+    - CSS
+    - React
+    - Heroku
+    - Java Script
+    - Inquirer NPM Package - https://www.npmjs.com/package/inquirer is-letter  
+    - NPM Package - https://www.npmjs.com/package/is-letter
+```
+### Commets:
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
-### Making a Progressive Web App
+```css
+Link to Project
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+https://github.com/OCGedeon/ClickClack
 
-### Advanced Configuration
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
 
-### Deployment
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
-### `npm run build` fails to minify
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+
+
+
+
