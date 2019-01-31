@@ -1,22 +1,24 @@
-# Click Clack
-# Click Clack Game (Tech Edition)
+# Click Clack Memory Game (Tech Edition)
+![Screenshot](public/img/main.png)
 
 
 <div>
 
 ```html
 
-    Welcome to my Click Game; with this assignment we were asked to create a guessing game that will have you selecting images/icons off of a grid. Your goal is to only select each image one time and not to repeat your selection. But be careful as the tech icons with redomize with each click. 
+    Welcome to my Click Game Memory Game; Your goal is to only select each image one time and not to repeat your selection. But be careful as the tech icons with redomize with each click.
+
+    Please enjoy!
     
     Best of luck!
     
-    Please enjoy!
+  
     
 
 
 ```
 
-`Overview`
+### Overview`
 
 ```css
 PLEASE NOTE: There are required installations or update required to view and play this file/game.
@@ -46,7 +48,7 @@ When complete, the application should be deployed to Github Pages. See the READM
 
 
 
---------------------END----------------------------
+
 
 ```
 
